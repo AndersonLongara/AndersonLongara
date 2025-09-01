@@ -40,9 +40,9 @@ Com base na minha recente análise de mercado, meu plano de estudos para os pró
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas de Anderson no GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas de Anderson no GitHub](https://github-readme-stats.vercel.app/api?username=AndersonLongara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB-AQUI&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLongara&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
